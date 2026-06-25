@@ -115,8 +115,8 @@ analytics:
 # Site Author
 author:
   name             : "Alistair Bhatti"
-  avatar           : "/assets/images/CPR_mughot.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "RF amateur "
+  avatar           : "/assets/images/CPR_mugshot.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "RF amateur"
   location         : "St Andrews, Scotland"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
