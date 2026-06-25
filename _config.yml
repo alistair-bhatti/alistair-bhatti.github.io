@@ -197,6 +197,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - LEGACY
 keep_files:
   - .git
   - .svn
