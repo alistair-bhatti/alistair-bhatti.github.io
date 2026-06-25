@@ -15,7 +15,7 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
 
 # Site Settings
-locale                   : "en-UK"
+locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
 title                    : "alistair-bhatti.github.io"
 title_separator          : "-"
